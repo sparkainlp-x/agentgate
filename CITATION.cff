@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: AgentGate
+version: 0.1.0
+date-released: 2026-10-20
+authors:
+  - family-names: Brisson
+    given-names: Jean-François
+    orcid: https://orcid.org/0009-0000-9778-5374
+license: AGPL-3.0-only
+repository-code: https://github.com/sparkainlp-x/agentgate
+abstract: >-
+  Accountability infrastructure for AI agents: human-approved
+  committed identities, least-privilege capability leases (scoped,
+  limited, expiring, revocable), a fail-closed enforcement gate that
+  ledgers every action attempt, a hash-chained ledger storing
+  payloads as hashes, and an external replay audit that re-evaluates
+  every allowed action against the lease terms. Generalized from
+  identity-runtime into framework-agnostic infrastructure.
+keywords:
+  - ai-agents
+  - agent-identity
+  - capability-leases
+  - audit-ledger
+  - least-privilege
+  - ai-governance
+  - fail-closed

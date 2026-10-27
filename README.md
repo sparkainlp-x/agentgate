@@ -77,6 +77,22 @@ All results above come from the included `demo.py` and `tests.py`,
 run on a SYNTHETIC scenario. No production deployment or external
 evaluation has been run (UNRUN).
 
+## Citing
+
+AgentGate v0.1.0 is archived on Zenodo: [10.5281/zenodo.23566402](https://doi.org/10.5281/zenodo.23566402) (version DOI; all versions: [10.5281/zenodo.23566401](https://doi.org/10.5281/zenodo.23566401)). See also [CITATION.cff](CITATION.cff).
+
+```bibtex
+@software{agentgate_0_1_0,
+  author  = {Brisson, Jean-François},
+  title   = {AgentGate},
+  version = {0.1.0},
+  year    = {2026},
+  doi     = {10.5281/zenodo.23566402},
+  url     = {https://github.com/sparkainlp-x/agentgate},
+  license = {AGPL-3.0-only}
+}
+```
+
 ## Acknowledgements
 
 Mun Seok Lee is acknowledged for discussion only. We cannot verify any specific contribution to this repository, and no file here is known to derive from a package received under his name. He is not an author of this release, and no endorsement of this code or its conclusions is implied.

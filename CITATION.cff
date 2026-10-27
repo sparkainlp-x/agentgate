@@ -1,5 +1,6 @@
 cff-version: 1.2.0
 title: AgentGate
+message: "If you use this software, please cite it using the metadata from this file."
 version: 0.1.0
 date-released: 2026-10-20
 authors:
@@ -8,6 +9,14 @@ authors:
     orcid: https://orcid.org/0009-0000-9778-5374
 license: AGPL-3.0-only
 repository-code: https://github.com/sparkainlp-x/agentgate
+doi: 10.5281/zenodo.23566402
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23566402
+    description: "Version DOI for v0.1.0"
+  - type: doi
+    value: 10.5281/zenodo.23566401
+    description: "Concept DOI (all versions)"
 abstract: >-
   Accountability infrastructure for AI agents: human-approved
   committed identities, least-privilege capability leases (scoped,
